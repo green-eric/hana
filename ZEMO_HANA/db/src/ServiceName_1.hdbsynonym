@@ -1,0 +1,8 @@
+{
+  "com.sap::SFLIGHT": {
+    "target": {
+      "object": "SFLIGHT",
+      "schema": "SFLIGHT"
+    }
+  }
+}
